@@ -7,3 +7,6 @@ Mockup creation in adobe photoshop.
 # Coffee cup
 ![P](https://github.com/user-attachments/assets/9935c60c-897b-4ed0-8914-92b38bc6097d)
 ![Coffee cup mockup](https://github.com/user-attachments/assets/a1c71d42-5523-4b54-ba75-f6d0e7ca2d21)
+
+# Metal tin
+![metal tin mockup](https://github.com/user-attachments/assets/78513fb8-7a3a-46b5-81b1-1b8463229dba)
